@@ -59,4 +59,4 @@ jobs:
           app-name: 'sunshinehw'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A6F2E2C41674735B7A9F75EE0CCC6F1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0FF521AD17C54D97B61DECF2FE6F7EFE }}
